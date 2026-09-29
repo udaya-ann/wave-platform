@@ -151,7 +151,7 @@ Account-scoped endpoints receive events available to users within an account. Pl
 
 The following events are platform-only:
 
-* `mailing-list.post`
+* `mailing-list.message.created`
 * `patch.received`
 
 Platform-only events are not delivered to account-scoped endpoints.
